@@ -1,9 +1,9 @@
 {
     "twitch": {
         "token_endpoint": "https://id.twitch.tv/oauth2/token",
-        "username": "<chatBotUsername>",
-        "client_id":"<clientID>",
-        "client_secret":"<clientSecret>",
+        "username": "<Lexi Draxor Bot>",
+        "client_id":"<967y09xycxq4s1bs64tk62jf1ofc2b>",
+        "client_secret":"<cvr6f4i7urnfapc98ehwm6e4lmrwgk>",
         "authorization_code":"<AuthCode>",
         "channel": "<channel_to_connect_to>"
     }
